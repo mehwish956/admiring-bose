@@ -1,0 +1,198 @@
+@media (max-width: 1144px) { 
+  #cardimages{
+    width: 288px;
+  }
+  .page-title-alt .bg-shape-3 {
+    left: 15%;
+    top: -22px;
+  }
+  .page-title-alt .bg-shape-6 {
+    bottom: 20rem;
+  }
+  .border-thick {
+    margin-top: 10rem;
+  }
+  .page-title .bg-shape-7 {
+    margin-bottom: 162px;
+  }
+ 
+}
+@media (max-width: 1022px) {
+  #cyan{
+    left: 18rem;
+  } 
+}
+@media (max-width: 978px) {
+  .w-50 {
+    width: 100%!important;
+  }
+  
+  .col-sm-offset-2 {
+    margin-left: 13rem;
+  }
+  #quote-carousel .carousel-indicators {
+    margin-left: 0rem;
+  }
+  #cardimages {
+    width: 329px;
+  }
+  .At-contactScetioN {
+    padding-top: 0px;
+  }
+  .shadow {
+    margin-top: 30px;
+  }
+  .font-secondary {
+    font-size: 15px;
+  }
+}
+@media (max-width: 902px){
+  #cyan {
+    left: 15rem;
+  }
+  .html{
+    margin-bottom: 70px;
+  }
+  .junior-font {
+    margin-bottom: 70px;
+  }
+}
+@media (max-width: 768px) {
+  #cyan{
+    left: 10rem;
+  } 
+}
+@media (max-width: 678px) {
+  .footer-section-1 {
+    padding-top: 0px;
+}
+  .At-ContactLeft{
+    margin-bottom: 200px;
+    text-align: start;
+  }
+  #dots-1{
+    left: 9rem;
+  } 
+  #cyan{
+    left: 8rem;
+  }
+  .w-50 {
+    width: 60%!important;
+  }
+  #quote-carousel .carousel-indicators {
+    margin-left: 0rem;
+    margin-right: -23rem;
+  }
+  .At-BlogsScetioN {
+    padding-top: 45px;
+  }
+  #cardimages {
+    width: 238px;
+    height: 180px;
+  }
+  .shadow {
+    margin-top: 0px;
+  }
+  .text-light {
+    margin-top: 35px;
+    margin-bottom: 0px;
+    font-size: 25px;
+  }
+  .font-secondary {
+    font-size: 23px;
+  }
+  #fx.nav-bg {
+    padding: 15px 35px;
+
+  }
+}
+@media (max-width: 578px) {
+  .section-1 {
+    padding-top: 160px;
+  }
+  .AboutUsSectioNPages {
+    padding-top: 14rem;
+  }
+  #cyan{
+    left: 3rem;
+  } 
+  h1, .h1 {
+    font-size: 50px;
+  }
+  .col-sm-offset-2 {
+    margin-left: 10rem;
+  }
+  .text-title {
+    margin: 0px 0px 40px 0px;
+  }
+}
+
+@media (max-width: 480px) {
+  .section-1 {
+    padding-top: 180px;
+  }
+  .text-title {
+    margin: 55px 0px 40px 0px;
+  }
+  .html {
+    font-size: 5rem;
+    margin-bottom: 15px;
+  }
+  .junior-font {
+    margin-bottom: 15px;
+  }
+  .col-sm-offset-2 {
+    margin-left: 0rem;
+  }
+  #cardimages {
+    width: 449px;
+    height: 250px;
+  }
+}
+@media (max-width: 378px){
+  .page-title-alt .bg-shape-3 {
+    left: 7%;
+  }
+  .w-50 {
+    width: 70%!important;
+  }
+  #quote-carousel .carousel-indicators {
+    margin-right: -18rem;
+  }
+  #cardimages {
+    width: 346px;
+  }
+  .text-title{
+    font-size: 5rem;
+  }
+  .page-title .bg-shape-5 {
+    left: 21px;
+  }
+}
+@media (max-width: 320px){
+  .page-title-alt .bg-shape-3 {
+    left: -9%;
+  }
+  #cardimages {
+    width: 292px;
+  }
+  #message {
+    padding-bottom: 3rem;
+  }
+  #send {
+    padding: 5px 44px;
+  } 
+  
+}
+
+
+
+
+  
+
+  
+
+
+ 
+
+
